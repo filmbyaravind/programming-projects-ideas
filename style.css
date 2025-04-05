@@ -1,0 +1,55 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #fce4ec;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    color: #d81b60;
+  }
+  
+  #wish-text {
+    font-size: 1.5rem;
+    color: #880e4f;
+  }
+  
+  button {
+    background-color: #d81b60;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background-color: #880e4f;
+  }
+  
+  /* Surprise box styles */
+  .hidden {
+    display: none;
+  }
+  
+  #surprise-box {
+    margin-top: 20px;
+  }
+  
+  .surprise-image {
+    width: 300px;
+  }
+  
+  .surprise-text {
+    font-size: 1.5rem;
+    color: #6a1b9a;
+  }
+  
